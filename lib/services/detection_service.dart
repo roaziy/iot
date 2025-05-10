@@ -1,5 +1,5 @@
 import 'package:camera/camera.dart';
-import 'dart:typed_data';
+// import 'dart:typed_data';
 
 class DetectionService {
   static Future<bool> detectFire(CameraImage image) async {
